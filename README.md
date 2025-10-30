@@ -1,4 +1,4 @@
-# JavaScript Repository
+# JavaScript Repository - Part 2
 
 A collection of JavaScript projects and exercises that I make for myself in the OneBitCode course.
 
